@@ -3,7 +3,7 @@ Power BI integrated in ASP.NET MVC App
 
 How to run the application:
 
-1) Register your application in Azure AD, here are the configurations we need to update we need to update ASP.NET MVC app:
+1) Register your application in Azure AD, here are the configurations we need to update ASP.NET MVC app with:
 
 Client Id
 
