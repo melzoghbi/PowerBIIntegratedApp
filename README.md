@@ -27,3 +27,5 @@ Below screen show shows a selected report "RPT1" and highlighted ReportId we wil
  5) Run the app, PowerBI report is showing after your login to your Office 365 tenant. 
  
  
+ A detailed blog post has been posted here:
+ http://www.mostafaelzoghbi.com/2016/04/integrate-power-bi-report-into-app.html 
