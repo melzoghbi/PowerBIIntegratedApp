@@ -1,5 +1,5 @@
 # PowerBIEmbeddedApp
-Power BI Embedded in ASP.NET MVC App
+Power BI integrated in ASP.NET MVC App
 
 How to run the application:
 
